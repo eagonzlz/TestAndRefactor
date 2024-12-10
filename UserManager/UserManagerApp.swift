@@ -2,7 +2,7 @@
 //  UserManagerApp.swift
 //  UserManager
 //
-//  Created by ArcaneHollow on 12/9/24.
+//  Created by Emanuel Gonzalez on 12/9/24.
 //
 
 import SwiftUI

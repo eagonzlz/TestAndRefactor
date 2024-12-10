@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "E6C07679-0F03-4ACC-9D8E-E92D8ED52E81",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:UserManager.xcodeproj",
+        "identifier" : "A3F63E7A2D0891FD001F5DC8",
+        "name" : "UserManagerTests"
+      }
+    }
+  ],
+  "version" : 1
+}
